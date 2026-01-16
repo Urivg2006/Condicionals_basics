@@ -12,14 +12,19 @@ Cada programa aborda un cas d'ús diferent per il·lustrar com es poden aplicar 
 
 * **`Cinema.java`**: 
     * Exercici lògic sobre el funcionament o gestió d'un cinema. 
+
 * **`Entrada.java`**: 
     * Programa que defineix l'estructura d'una entrada en una aplicació depenent de un horari. 
+
 * **`Tarifa.java`**: 
     * Lògica per al càlcul de preus i tarifes de enviament de paquets segons el seu pes i zona d'enviament. 
+
 * **`UF.java`**: 
     * Programa per calular en funcio de la nota de les activitats i examens de la Unitat Formativa (àmbit acadèmic) i determinar si està aprovat o no. 
+
 * **`Nota.java`**: 
     * Gestió simple de si tens un suspès un suficient o notable o un excel·lent. 
+    
 * **`numero.java`**: 
     * Determinar si un número és positiu, negatiu o zero.
 
