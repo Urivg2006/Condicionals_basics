@@ -28,7 +28,7 @@ Cada programa aborda un cas d'ús diferent per il·lustrar com es poden aplicar 
 * **`numero.java`**: 
     * Determinar si un número és positiu, negatiu o zero.
 
-PD: Els Javas estan fets originalment fets en català però he ficat comentaris de la traducció
+> **⚠️PD:** Els Javas estan fets originalment fets en català però he ficat comentaris de la traducció
 
 ---
 **English:**
@@ -63,4 +63,4 @@ Here is a list of the files and the specific logic they implement:
 * **`numero.java`**: 
     * A basic script to determine if a given number is positive, negative, or zero.
 
-PD: The Javas are originally made in Catalan but I have included comments on the translation. 
+> **⚠️PD:** The Javas are originally made in Catalan but I have included comments on the translation. 
